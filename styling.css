@@ -47,6 +47,10 @@ img.black_image {
 .about {
     padding-bottom: 50px;
 }
+.desc {
+    font-size: 15px;
+    padding-top: 20px;
+}
 
 #fourthrow {
     color: black;
@@ -55,7 +59,7 @@ img.black_image {
 
 }
 #fifthrow {
-    padding-top: 30px;
+    padding-top: 10px;
     padding-bottom: 100px;
     color: white;
     background-color: #000000 !important;
@@ -113,10 +117,16 @@ img.zoom {
 .modal-title {
     color:#000;
 }
-.modal-footer{
-    display:none;
+#info {
+    font-size: 20px;
 }
+
 
 .fancybox {
     padding-bottom: 50px;
+}
+
+.navbar {
+    background-color:rgba(0,0,0,.4) !important;
+    letter-spacing: 0.1rem;
 }

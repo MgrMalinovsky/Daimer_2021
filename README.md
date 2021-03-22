@@ -9,4 +9,4 @@ Its will focus on company presentation with all important information and maybe 
 
 ## Stack:
 
-Pure CSS 
+CSS, Bootstrap
